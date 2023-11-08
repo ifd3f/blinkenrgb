@@ -7,6 +7,8 @@ edition = "2021"
 
 [dependencies]
 anyhow = "1.0.75"
+bytesize = "1.3.0"
+futures = "0.3.29"
 openrgb = "0.1.2"
 rgb = "0.8.37"
 serde = "1.0.191"
